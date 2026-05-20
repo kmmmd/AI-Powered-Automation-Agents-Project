@@ -9,7 +9,8 @@ An end-to-end automated pipeline built on **Make.com** that dynamically analyzes
 The system bypasses traditional, time-consuming manual application tailoring by executing a highly optimized, trigger-based data pipeline.
 
 ### Full Pipeline Overview
-<img width="1365" height="676" alt="image" src="https://github.com/user-attachments/assets/6ecbbe05-1133-4599-a4f2-070fd34120b4" />
+
+<img width="1365" height="674" alt="image" src="https://github.com/user-attachments/assets/67eee375-213b-4602-b063-4d0a929bad76" />
 
 ## 🛠️ Detailed Component Breakdown
 
@@ -63,27 +64,20 @@ Once both content-generation pipelines finish execution, a dedicated Gmail node 
 ### Successful Pipeline Run Execution
 Below is the execution logs from the active pipeline tracking operation routing directly to the inbox destination.
 
-<p align="center">
-  <img src="images/09_successful_run.png" width="800">
-</p>
-
-*Figure 6: Make.com scenario page after a successful execution run, showing the operational checkmarks on top of every single module.*
+<img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/eaa559e7-bd7d-44a7-8b16-e3aeb5e3f21a" />
 
 ### Final Delivered Output
 The final automated delivery safely transmits the compiled, completely formatted professional application kit instantly.
 
-<p align="center">
-  <img src="images/10_final_email_output.png" width="800">
-</p>
-
-*Figure 7: Final parsed deployment email received in Gmail.*
+<img width="1365" height="680" alt="image" src="https://github.com/user-attachments/assets/1f70df90-d10c-45c6-b694-6534538cbb52" />
+<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/e625b19c-375c-47c9-95fd-5cfc602c44c4" />
 
 ---
 
 ## 💻 Tech Stack
 
 * **Orchestration & Workflow Automation:** Make.com (Formerly Integromat)
-* **LLM Gateway Router:** OpenRouter API (`StepFun: Step 3.5 Flash (free)`)
+* **LLM Gateway Router:** OpenRouter API (`NVIDIA: Nemotron 3 Super (free)`)
 * **Data Integration Stack:** Google Workspace Ecosystem (Forms, Sheets, Docs, Gmail)
 
 ---
