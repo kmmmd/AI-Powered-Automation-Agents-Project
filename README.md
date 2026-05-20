@@ -77,7 +77,7 @@ The final automated delivery safely transmits the compiled, completely formatted
 ## 💻 Tech Stack
 
 * **Orchestration & Workflow Automation:** Make.com (Formerly Integromat)
-* **LLM Gateway Router:** OpenRouter API (`NVIDIA: Nemotron 3 Super (free)`)
+* **LLM Gateway Router:** OpenRouter API (`StepFun: Step 3.5 Flash (free)`)
 * **Data Integration Stack:** Google Workspace Ecosystem (Forms, Sheets, Docs, Gmail)
 
 ---
